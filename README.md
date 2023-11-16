@@ -8,10 +8,6 @@
 
 ### Week1: Intro to Numpy, Pandas
 
-1. Numpy: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Numpy.ipynb)
-
-2. Pandas: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Pandas.ipynb)
-
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
 ### Reference:
