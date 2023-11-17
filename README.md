@@ -8,6 +8,8 @@
 
 ### Week1: Intro to Numpy, Pandas
 
+- Titanic Dataset: https://raw.githubusercontent.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/main/dataset/titanic_dataset.csv
+
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
 ### Books:
