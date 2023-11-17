@@ -10,6 +10,12 @@
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
+### Books:
+
+- ```Heaton, Jeff. "Ian Goodfellow, Yoshua Bengio, and Aaron Courville: Deep learning: The MIT Press, 2016, 800 pp, ISBN: 0262035618." Genetic programming and evolvable machines 19.1-2 (2018): 305-307.```
+
+- https://www.deeplearningbook.org/exercises.html
+
 ### Reference:
 
 1. https://www.kaggle.com/code
