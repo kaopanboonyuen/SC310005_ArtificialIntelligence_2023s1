@@ -16,7 +16,7 @@
 
 - https://www.deeplearningbook.org/exercises.html
 
-![](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/raw/main/img/dl_book.jpg)
+![](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/raw/main/img/dl_book_v2.jpg)
 
 ### Reference:
 
