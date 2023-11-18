@@ -12,6 +12,7 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 ### Week1: Intro to Numpy, Pandas
 
+- Week1 Lecture Code: https://colab.research.google.com/drive/1bq3i-WfNEJytu9EefqF4LbC3gepN0OL0?usp=sharing
 - Titanic Dataset: https://raw.githubusercontent.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/main/dataset/titanic_dataset.csv
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
