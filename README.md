@@ -13,7 +13,7 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 ### Week1: Intro to Numpy, Pandas
 
 - Week1 Lecture Code: https://colab.research.google.com/drive/1bq3i-WfNEJytu9EefqF4LbC3gepN0OL0?usp=sharing
-Laboratory Activities for Week 1 (Basic Pandas):https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/assignments/SC310005-Week-1-AI-Laboratory-Activities.pdf
+- Laboratory Activities for Week 1 (Basic Pandas):https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/assignments/SC310005-Week-1-AI-Laboratory-Activities.pdf
 - Titanic Dataset: https://raw.githubusercontent.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/main/dataset/titanic_dataset.csv
 
 
