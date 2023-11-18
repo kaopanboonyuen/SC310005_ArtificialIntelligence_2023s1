@@ -2,6 +2,10 @@
 
 [![Support-Ukraine](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/Support-Ukraine-FFD500.svg)](https://supportukrainenow.org/)
 
+Lecturer: Teerapong Panboonyuen (Kao), Ph.D.
+
+Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
+
 ![alt text](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/%20files/welcome-to-the-dark-side-of-science-data-science.jpeg "join ds")
 
 ## Link for lecture slides: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/tree/main/slides
