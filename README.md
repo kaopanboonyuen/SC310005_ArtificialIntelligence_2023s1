@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/%20files/welcome-to-the-dark-side-of-science-data-science.jpeg "join ds")
 
-## Short links for exercises:
+## Link for lecture slides: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/tree/main/slides
 
 ### Week1: Intro to Numpy, Pandas
 
