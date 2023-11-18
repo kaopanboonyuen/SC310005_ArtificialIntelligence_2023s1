@@ -8,7 +8,7 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 ![alt text](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/%20files/welcome-to-the-dark-side-of-science-data-science.jpeg "join ds")
 
-## Link for lecture slides: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/tree/main/slides
+## Link for lecture slides: https://bit.ly/sc310005lectures
 
 ### Week1: Intro to Numpy, Pandas
 
