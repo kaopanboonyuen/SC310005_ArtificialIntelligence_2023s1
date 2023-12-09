@@ -26,6 +26,8 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 ### Week4: Seaborn
 
 - Slide: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/slides/lecture_4_seaborn.pdf
+- Laboratory Activities for Week 4: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/assignments/SC310005-Week-4-AI-Laboratory-Activities.pdf
+- Mushroom Dataset: https://raw.githubusercontent.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/main/dataset/mushrooms_dataset.csv 
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
