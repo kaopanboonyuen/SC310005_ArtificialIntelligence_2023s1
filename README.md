@@ -25,7 +25,7 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 ### Week4: Seaborn
 
-- Lecture Slide: 
+- Slide: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/slides/lecture_4_seaborn.pdf
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
