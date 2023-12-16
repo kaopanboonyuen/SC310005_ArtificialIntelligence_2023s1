@@ -29,6 +29,11 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 - Laboratory Activities for Week 4: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/assignments/SC310005-Week-4-AI-Laboratory-Activities.pdf
 - Mushroom Dataset: https://raw.githubusercontent.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/main/dataset/mushrooms_dataset.csv 
 
+### Week5: Supervised Learning (Part I)
+
+- Slide: N/A
+- Laboratory Activities for Week 4: N/A
+
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
 ### Books:
