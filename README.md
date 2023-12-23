@@ -35,6 +35,10 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 - Laboratory Activities for Week 5: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/assignments/SC310005-Week-5-AI-Laboratory-Activities.pdf
 - Heart Attack Dataset: https://raw.githubusercontent.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/main/dataset/heart_attack_dataset.csv
 
+### Week6: Supervised Learning (Part I)
+
+- Slide: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/slides/lecture_6_supervised_learning_part_ii.pdf
+
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
 ### Books:
