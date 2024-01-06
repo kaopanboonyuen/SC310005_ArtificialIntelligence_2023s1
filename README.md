@@ -43,7 +43,7 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 ### Week7: Regression
 
-- Slide: N/A
+- Slide: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/slides/lecture_7_regression.pdf
 - Dataset: N/A
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
