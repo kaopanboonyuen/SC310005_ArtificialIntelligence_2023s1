@@ -44,7 +44,8 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 ### Week7: Regression
 
 - Slide: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/slides/lecture_7_regression.pdf
-- Dataset: N/A
+- Laboratory Activities for Week 7: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/assignments/SC310005-Week-7-AI-Laboratory-Activities.pdf
+- House Price Dataset: https://raw.githubusercontent.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/main/dataset/house_prices_dataset.csv 
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
