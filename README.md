@@ -51,7 +51,7 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 - Slide: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/slides/lecture_8_unsupervised_learning_part_i.pdf
 - Laboratory Activities for Week 8: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/assignments/SC310005-Week-8-AI-Laboratory-Activities.pdf
-- Dataset: https://raw.githubusercontent.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2 023s1/main/dataset/covid19_vaccination_dataset.csv
+- Dataset: https://raw.githubusercontent.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/main/dataset/covid19_vaccination_dataset.csv
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
