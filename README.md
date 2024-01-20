@@ -47,6 +47,12 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 - Laboratory Activities for Week 7: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/assignments/SC310005-Week-7-AI-Laboratory-Activities.pdf
 - House Price Dataset: https://raw.githubusercontent.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/main/dataset/house_prices_dataset.csv 
 
+### Week8: Unsupervised Learning (Part I)ssion
+
+- Slide: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/slides/lecture_8_unsupervised_learning_part_i.pdf
+- Laboratory Activities for Week 8: N/A
+- Dataset: N/A
+
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
 ### Books:
