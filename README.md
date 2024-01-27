@@ -55,7 +55,7 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 ### Week9: Apriori Association Rules and Recommender Systems
 
-- Slide: N/A
+- Slide: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/slides/lecture_9_apriori_sssociation_rules_and_recommender_systems.pdf
 - Laboratory Activities for Week 9: N/A
 - Dataset: N/A
 
