@@ -56,8 +56,8 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 ### Week9: Apriori Association Rules and Recommender Systems
 
 - Slide: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/slides/lecture_9_apriori_sssociation_rules_and_recommender_systems.pdf
-- Laboratory Activities for Week 9: N/A
-- Dataset: N/A
+- Laboratory Activities for Week 9: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/assignments/SC310005-Week-9-AI-Laboratory-Activities-Recommender-System.pdf
+- Dataset: https://raw.githubusercontent.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/main/dataset/amazon_reviews_dataset_toStudent.csv 
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
