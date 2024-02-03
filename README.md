@@ -10,6 +10,14 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 ## Link for lecture slides: https://bit.ly/sc310005lectures
 
+## **Announcing the AI Final Project!**
+
+(1) Guidelines on Detail Assignment: N/A
+(2) Sign Up Projects: https://docs.google.com/spreadsheets/d/18tur5UXjUjxgegQziECyGpKikS-WqRwj2QNNllYX9Bs/edit?usp=sharing  
+
+** Scientific posters should be oriented exclusively in the vertical position. 
+** Recommend using a portrait A0 layout. 
+
 ### Week1: Intro to Numpy, Pandas
 
 - Week1 Lecture Code: https://colab.research.google.com/drive/1bq3i-WfNEJytu9EefqF4LbC3gepN0OL0?usp=sharing
