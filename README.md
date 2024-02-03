@@ -61,6 +61,7 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 ### Week10: Deep Learning (Convolutional Neural Networks)
 
+- Slide: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/slides/lecture_10_deep_learning_image_classification.pdf
 - Laboratory Activities for Week 10: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/assignments/SC310005-Week-10-AI-Laboratory-Activities.pdf 
 - Dataset: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/raw/main/dataset/MangoLeafBD_dataset_small_v2.zip 
 - Code: https://colab.research.google.com/github/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/code/Week1_BasicPandas_InClass_18112023.ipynb 
