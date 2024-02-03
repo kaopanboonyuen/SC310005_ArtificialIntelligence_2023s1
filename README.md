@@ -12,7 +12,7 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 ## **Announcing the AI Final Project!**
 
-(1) Guidelines on Detail Assignment: N/A
+(1) Guidelines on Detail Assignment: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/assignments/SC310005-AI-Final-Project.pdf
 (2) Sign Up Projects: https://docs.google.com/spreadsheets/d/18tur5UXjUjxgegQziECyGpKikS-WqRwj2QNNllYX9Bs/edit?usp=sharing  
 
 ** Scientific posters should be oriented exclusively in the vertical position. 
