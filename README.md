@@ -78,8 +78,8 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 ### Week11: Deep Learning Part II (Custom Convolutional Neural Networks)
 
 - Slide: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/slides/lecture_11_deep_learning_custom_cnn.pdf
-- Laboratory Activities for Week 11: N/A
-- Code: N/A
+- Laboratory Activities for Week 11: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/assignments/SC310005-Week-11-AI-Laboratory-Activities.pdf 
+- Code: https://colab.research.google.com/github/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/code/mango_leaf_train_and_save_weight_2024v3_part2_toStudent.ipynb 
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
