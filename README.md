@@ -90,8 +90,8 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 ### Week12: Time Series Analysis
 
 - Slide: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/slides/lecture_12_time_series.pdf
-- Laboratory Activities for Week 12: N/A
-- Dataset: N/A
+- Laboratory Activities for Week 12: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/assignments/SC310005-Week-12-AI-Laboratory-Activities.pdf 
+- Dataset: YFinance Library (https://pypi.org/project/yfinance/, https://finance.yahoo.com/)
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
