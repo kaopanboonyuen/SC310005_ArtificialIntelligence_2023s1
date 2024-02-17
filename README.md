@@ -32,6 +32,8 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 ### Week3: (Recap) Basic Pandas I and II
 
+![](https://cdn.otus.ru/media/public/b7/50/1-1801-b75093.png)
+
 ### Week4: Seaborn
 
 - Slide: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/slides/lecture_4_seaborn.pdf
