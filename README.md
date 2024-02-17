@@ -6,7 +6,7 @@ Lecturer: Teerapong Panboonyuen (Kao), Ph.D.
 
 Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
-![alt text](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/%20files/welcome-to-the-dark-side-of-science-data-science.jpeg "join ds")
+![alt text](https://i0.wp.com/www.michigandaily.com/wp-content/uploads/2022/11/aiart.png?w=2400&ssl=1 "join ds")
 
 ## Link for lecture slides: https://bit.ly/sc310005lectures
 
