@@ -85,6 +85,8 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 - Laboratory Activities for Week 11: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/assignments/SC310005-Week-11-AI-Laboratory-Activities.pdf 
 - Code: https://colab.research.google.com/github/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/code/mango_leaf_train_and_save_weight_2024v3_part2_toStudent.ipynb 
 
+![](https://media.licdn.com/dms/image/D4D12AQEKaJgqPQG0jA/article-cover_image-shrink_600_2000/0/1687626141990?e=2147483647&v=beta&t=XHjvp1x90QnviCYLxRNAdGsxGsNXKtuX-JYHO9m6hQI)
+
 ### Week12: Time Series Analysis
 
 - Slide: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/slides/lecture_12_time_series.pdf
