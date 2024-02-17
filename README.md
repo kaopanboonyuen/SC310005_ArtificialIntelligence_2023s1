@@ -95,7 +95,9 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 - https://www.deeplearningbook.org/exercises.html
 
-![](https://theaisummer.com/static/c556f5b01e9e37e66822c580230eb7c6/ee604/deep-learning-books-2022.png )
+![](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/raw/main/img/handson-ml-books.jpg)
+
+![](https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/raw/main/img/ai_bye.gif)
 
 ### Reference:
 
