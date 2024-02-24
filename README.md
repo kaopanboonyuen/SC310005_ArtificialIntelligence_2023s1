@@ -93,6 +93,10 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 - Laboratory Activities for Week 12: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/assignments/SC310005-Week-12-AI-Laboratory-Activities.pdf 
 - Dataset: YFinance Library (https://pypi.org/project/yfinance/, https://finance.yahoo.com/)
 
+### Week13: Final Project
+
+- Slide: https://github.com/kaopanboonyuen/SC310005_ArtificialIntelligence_2023s1/blob/main/slides/lecture_13_ai_final_project.pdf
+
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
 ### Books:
