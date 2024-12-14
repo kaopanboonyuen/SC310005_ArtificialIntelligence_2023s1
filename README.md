@@ -132,3 +132,18 @@ Recommended layout: Portrait A0
 - Recommended layout: Portrait A0
 
 **Thank you for a great semester! 🌟**
+
+---
+
+### Reference Materials:
+
+1. [Google Colab](https://colab.research.google.com/notebooks/)
+2. [Problem Solving with Python](https://problemsolvingwithpython.com/)
+3. [Python101 - Chulalongkorn University](https://www.cp.eng.chula.ac.th/books/python101/)
+4. [Chulalongkorn University - CP Website](https://www.eng.chula.ac.th/th/20535)
+5. [Graph Visualization with Python - Towards Data Science](https://towardsdatascience.com/graph-visualisation-basics-with-python-part-i-flowcharts-6298c4f412e0)
+6. [Programiz - Flowchart Programming](https://www.programiz.com/article/flowchart-programming)
+7. [Toppr - Python Flow Control](https://www.toppr.com/guides/python-guide/tutorials/python-flow-control/if-elif-else/python-if-if-else-if-elif-else-and-nested-if-statement/)
+8. [Kaggle - Python Tutorials](https://www.kaggle.com/learn/python)
+9. [UCL Deep Learning Course](https://www.ucl.ac.uk/ai/)
+10. [Stanford CNN Course - CS231n](http://cs231n.stanford.edu/)
